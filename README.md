@@ -9,7 +9,7 @@ MariaDB 10.3
 　　
 ## Download Image
 　　
-　　You can use `docker pull` to download the image to your machines.
+You can use `docker pull` to download the image to your machines.
 for amd64
 　　
 ```shell
